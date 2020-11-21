@@ -1,5 +1,5 @@
-%Mode = 'Camera';
-Mode = 'MovieFile';
+Mode = 'Camera';
+%Mode = 'MovieFile';
 
 XExpand = 20;
 YExpand = 10;
