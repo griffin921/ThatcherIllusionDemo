@@ -6,6 +6,7 @@ YExpand = 10;
 
 FrameMax = 440;
 
+
 % 学習済み物体認識オブジェクトを生成
 FaceDetector = vision.CascadeObjectDetector();
 EyesDetector = vision.CascadeObjectDetector('EyePairSmall', 'UseROI', true);
